@@ -1,2 +1,2 @@
-ruby lib/example.rb  
+ruby greeting.rb   
 
